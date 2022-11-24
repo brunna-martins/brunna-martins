@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Brunna and I am a Software Engineering student at UnB/FGA.</h2>
+<h2 align="center">Hi 👋! My name is Brunna and I am a Software Engineering student at UnB/FGA.</h2>
 
 ###
 
