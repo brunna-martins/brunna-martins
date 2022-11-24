@@ -9,10 +9,14 @@
 
 ###
 
+<div align ="center">
+
 <br clear="both">
 
 <img src="https://github.com/brunna-martins/brunna-martins/blob/output/snake.svg" alt="Snake animation" />
 
+ </div>
+  
 ###
 
 <div align="center">
