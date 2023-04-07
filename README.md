@@ -1,14 +1,5 @@
 <h2 align="center">Hi 👋! My name is Brunna and I am a Software Engineering student at UnB/FGA.</h2>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-</div>
-
-###
-
 <div align ="center">
 
 <br clear="both">
